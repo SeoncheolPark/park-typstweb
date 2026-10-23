@@ -827,7 +827,7 @@
           [-   The exam is graded out of #total-pts points.]
         }
         -  The weight for each question is listed in the left hand of each problem.     
-        -  You should write down the answer in this sheet. (반드시 이 종이에 답을 적으셔야 합니다. 연습용 종이에 적은 것은 점수로 인정되지 않습니다.)
+        -  You should write down the answer in this sheet. //(반드시 이 종이에 답을 적으셔야 합니다. 연습용 종이에 적은 것은 점수로 인정되지 않습니다.)
         -  All answers should be written clearly and neatly.
         //-  In your proof, be clear about how each step follows from the preceding steps or form more basic results given in class.
       ]
