@@ -1,0 +1,7 @@
+[package]
+name = "park-typstweb"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Seoncheol Park"]
+description = "Private lecture, slide, examination and code-display templates"
+compiler = "0.15.0"
